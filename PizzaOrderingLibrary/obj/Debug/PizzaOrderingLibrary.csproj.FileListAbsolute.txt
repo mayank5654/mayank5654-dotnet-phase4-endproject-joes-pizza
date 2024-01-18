@@ -1,0 +1,12 @@
+D:\Phase 4\Practise Projects\Pizza Store\PizzaOrderingLibrary\bin\Debug\PizzaOrderingLibrary.dll
+D:\Phase 4\Practise Projects\Pizza Store\PizzaOrderingLibrary\bin\Debug\PizzaOrderingLibrary.pdb
+D:\Phase 4\Practise Projects\Pizza Store\PizzaOrderingLibrary\obj\Debug\PizzaOrderingLibrary.csproj.AssemblyReference.cache
+D:\Phase 4\Practise Projects\Pizza Store\PizzaOrderingLibrary\obj\Debug\PizzaOrderingLibrary.csproj.CoreCompileInputs.cache
+D:\Phase 4\Practise Projects\Pizza Store\PizzaOrderingLibrary\obj\Debug\PizzaOrderingLibrary.dll
+D:\Phase 4\Practise Projects\Pizza Store\PizzaOrderingLibrary\obj\Debug\PizzaOrderingLibrary.pdb
+F:\phase3\practice projects\New folder\PizzaOrderingLibrary\bin\Debug\PizzaOrderingLibrary.dll
+F:\phase3\practice projects\New folder\PizzaOrderingLibrary\bin\Debug\PizzaOrderingLibrary.pdb
+F:\phase3\practice projects\New folder\PizzaOrderingLibrary\obj\Debug\PizzaOrderingLibrary.csproj.AssemblyReference.cache
+F:\phase3\practice projects\New folder\PizzaOrderingLibrary\obj\Debug\PizzaOrderingLibrary.csproj.CoreCompileInputs.cache
+F:\phase3\practice projects\New folder\PizzaOrderingLibrary\obj\Debug\PizzaOrderingLibrary.dll
+F:\phase3\practice projects\New folder\PizzaOrderingLibrary\obj\Debug\PizzaOrderingLibrary.pdb
